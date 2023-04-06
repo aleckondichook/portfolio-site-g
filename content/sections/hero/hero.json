@@ -1,0 +1,18 @@
+{
+  "intro": "Hey I'm Alec Kondichook",
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "",
+  "subtitle": {
+    "prefix": "I'm a ",
+    "highlight": "full-stack developer",
+    "suffix": ""
+  },
+  "description": "",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Alec Kondichook",
+  "email": "akondichook@mail.com",
+  "description": "Feel free to reach out to me through LinkedIn, Email, or a can with a string",
+  "image": {
+    "src": "../../images/favicon.png",
+    "alt": "Gatsby Logo"
+  },
+  "socialProfiles": {
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": true
+  }
+}

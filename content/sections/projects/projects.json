@@ -1,0 +1,131 @@
+{
+  "projects": [
+    {
+      "visible": true,
+      "category": "fake stock exchange",
+      "title": "Mock Market",
+      "description": "Mock stock exchange that uses real-time prices for users to place trades with. Keeps track of a user's portfolio value over time by storing trades in a Postgres database.",
+      "tags": ["Next.js", "Prisma", "Postgres", "Vercel"],
+      "image": {
+        "src": "../../images/mock_market.png",
+        "alt": "mock market",
+        "linkTo": "https://mock-market.vercel.app/"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/aleckondichook/mock-market"
+        },
+        {
+          "type": "external",
+          "url": "https://mock-market.vercel.app/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "sports betting arbitrage website",
+      "title": "Cook the Books",
+      "description": "Provides users with sports betting arbitrage opportunities. Users can select which sport and type of bet and find opportunities to bet on both sides of the game and make a risk free return.",
+      "tags": ["React", "Node", "Express", "MongoDB"],
+      "image": {
+        "src": "../../images/cook_the_books.png",
+        "alt": "cook the books",
+        "linkTo": "http://cookthebooks.xyz/"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/aleckondichook/cook-the-books"
+        },
+        {
+          "type": "external",
+          "url": "http://cookthebooks.xyz/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "campground review website",
+      "title": "Yelp Camp",
+      "description": "Website to review campgrounds. Users can post campgrounds they have visited, view other campgrounds, and leave reviews.",
+      "tags": ["Node", "Express", "MongoDB"],
+      "image": {
+        "src": "../../images/yelp_camp.png",
+        "alt": "yelp camp",
+        "linkTo": "https://yelp-camp-portfolio.herokuapp.com/"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/aleckondichook/yelp-camp"
+        },
+        {
+          "type": "external",
+          "url": "https://yelp-camp-portfolio.herokuapp.com/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "chiropractic business landing page",
+      "title": "Loving Wellness Chiropractic",
+      "description": "Website for a local chiropractic business. Shows the services the business offers, testimonials from customers, and includes a contact form for potential customers.",
+      "tags": ["React", "Node", "Express", "TailwindCSS"],
+      "image": {
+        "src": "../../images/lwc.png",
+        "alt": "loving wellness",
+        "linkTo": "https://lovingwellnesschiropractic.com/"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/aleckondichook/loving-wellness"
+        },
+        {
+          "type": "external",
+          "url": "https://lovingwellnesschiropractic.com/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "twitter bot",
+      "title": "Copy Tweet",
+      "description": "Python script that automatically sends out the same tweets as a target user.",
+      "tags": ["Python", "Tweepy"],
+      "image": {
+        "src": "../../images/laptop.jpg",
+        "alt": "copy tweet"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/aleckondichook/copy-tweet"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "adventure game",
+      "title": "Neicerville Game",
+      "description": "Text based adventure game written in Java. Players can equip weapons, attack enemies, consume health items, speak to NPCs, and win boss fights to progress through the story.",
+      "tags": ["Java"],
+      "image": {
+        "src": "../../images/laptop2.jpg",
+        "alt": "neicerville game"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/aleckondichook/neicerville-game"
+        }
+      ]
+    }
+  ],
+  "button": {
+    "visible": false,
+    "label": "Visit on Github",
+    "url": "https://github.com/aleckondichook"
+  }
+}

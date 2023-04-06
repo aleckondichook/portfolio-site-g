@@ -1,0 +1,41 @@
+{
+  "siteMetadata": {
+    "language": "en",
+    "siteUrl": "https://aleckondichook.dev",
+    "title": "aleckondichook.dev",
+    "titleTemplate": "%s · portfolio site",
+    "description": "my portfolio site",
+    "author": "Alec Kondichook",
+    "avatar": "../content/images/favicon.png",
+    "bio": "",
+    "social": {
+      "github": "https://github.com/aleckondichook",
+      "medium": "",
+      "linkedin": "https://www.linkedin.com/in/aleckondichook",
+      "mail": "mailto:aleckondichook@gmail.com"
+    }
+  },
+  "siteConfiguration": {
+    "logo": { "text": "aleckondichook.dev" },
+    "navigation": {
+      "header": [
+        { "label": "About", "url": "/#about" },
+        { "label": "Projects", "url": "/#projects" },
+        { "label": "Contact", "url": "/#contact" }
+      ],
+      "ctaButton": {
+        "openNewTab": true,
+        "label": "Resume",
+        "url": "/resume.pdf"
+      },
+      "footer": [
+
+      ]
+    },
+    "featureToggles": {
+      "useDarkModeAsDefault": false,
+      "useDarkModeBasedOnUsersPreference": true,
+      "useCookieBar": false
+    }
+  }
+}
