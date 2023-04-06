@@ -4,7 +4,7 @@ Portfolio website showcasing my projects.
 
 ## demo app
 
-This website is deployed and hosted on Vercel <a href="https://mock-market.vercel.app/">here</a>.
+This website is deployed and hosted on Netlify <a href="https://aleckondichook.dev/">here</a>.
 
 ## setup
 
